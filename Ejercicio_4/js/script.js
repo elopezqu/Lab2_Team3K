@@ -3,5 +3,5 @@ function quitarGuion(){
 	while(link.indexOf("-")!=-1){
 		link = link.replace("-","");
 	}
-	console.log(link);
+  document.getElementById("nuevoLink").innerHTML = link;	
 }
