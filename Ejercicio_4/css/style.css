@@ -1,0 +1,25 @@
+body{
+	background-color : #159; 
+}
+h1{
+	color : red;
+	text-align : center;
+}
+form{
+	text-align : center;
+	margin : 4px;
+}
+#boton{
+	text-align : center;
+}
+p{
+	text-align : center;
+	font-size : 18px;
+}
+label{
+	font-size : 20px;
+	color : #aaa;
+}
+#nuevoLink{
+	background-color : #846;
+}
