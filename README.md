@@ -28,8 +28,8 @@
   <tr><td>ASIGNATUA:</td><td colspan="5">Programación Web 2</td></tr>
   <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="5">JavaScript</td></tr>
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td></tr>
-  <tr><td>FECHA DE PRESENTACIÓN:</td><td>...</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">...</td></tr>
-  <tr><td>INTEGRANTES:</td><td colspan="3">Edson Joel López Quispe<br></td><td>NOTA:</td><td>...</td></tr>
+  <tr><td>FECHA DE PRESENTACIÓN:</td><td>09/05/2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">...</td></tr>
+  <tr><td>INTEGRANTES:</td><td colspan="3">- Edson Joel López Quispe<br>- Gabriel Steven Machicao Quispe</td><td>NOTA:</td><td>...</td></tr>
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
  </tbody>
 </table>
@@ -39,8 +39,9 @@
  </theader>
  <tbody>
   <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>...</td></tr>
-  <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br>...</td></tr>
-  <tr><td>III. CONCLUSIONES:<br>...</td></tr>
+  <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br><strong><em>1. ¿Cómo se pueden resolver los warnings?</em></strong><br><p>JavaScript es una herramiente importante en la creación de páginas web, por lo cual al momento de trabajar en conjunto se debe tener normas capaces de dar un estandar al momento de escribir un código y que el resto lo comprenda, es por ello que para evitar los warnings se debe respetar dicha norma, y analizar el código, donde este no solo funcione sino tambien se claro y entendible para las personas que la vean.<p><strong><em> 2. ¿Se puede modificar la solución usando map? ¿Cómo? </em></strong><p>En caso de la segunda si se puede resolver con el map, ya que con los ID de los votantes y su número de votos se colocar en un map capaz de leer solo una vez por su ID el voto solicitado, por el motivo que los keys son unicos, eso permite que los votos de las personas sean únicos y nos dan una mayor ventaja al momento de sumar dichas votaciones.</p>
+</td></tr>
+  <tr><td>III. CONCLUSIONES:<br>Se puede concluir que hay varias maneras de resolver y obtener el resultado esperado al momento de ejecutar los códigos escritos en JavaScript, no obstante no significa que sea una buena practica realizar dichos procesos, porque esto al igual que la escritura, debe tener normas para que las demás personas puedan entenderlas, ya que si bien las máquinas logran realizar el proceso, este no podrá avanzar si no es aportado por otras personas que sean capaces de entender el código, támbien aprendimos el funcionamiento de JavaScript y la manera como opera en la programación. </td></tr>
  </tbody>
 </table>
 
