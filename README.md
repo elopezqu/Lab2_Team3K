@@ -49,7 +49,7 @@
   <tr><td>RETROALIMENTACIÓN GENERAL</td><tr>
  </theader>
  <tbody>
-  <tr><td>...</td></tr>
+  <tr><td>Al inicio se nos presentó dos ejercicios de JavaScript, ambos eran funciones que nos permitieron recordar este lenguaje, además de ver nuevos metodos y la implementación de los mismos, por otro lado se uso jslint para notar los errores al momento de escribir el código. Posteriormente se nos dejo 5 ejercicios propuestos, estos, a parte de aumentar nuestro conocimiento en JavaScript, pudimos volver a usar lenguaje html y css al momento de crear páginas web. </td></tr>
  </tbody>
 </table>
 
@@ -58,6 +58,6 @@
   <tr><td>RREFERENCIAS Y BIBLIOGRAFÍA</td><tr>
  </theader>
  <tbody>
-  <tr><td>...</td></tr>
+  <tr><td>[1] Groner, L. (2018). Learning JavaScript Data Structures and Algorithms: Write complex and powerful JavaScript code using the latest ECMAScript, 3rd Edition. Packt Publishing - ebooks Account.<br>[2] How to initialize an array's length in JavaScript? (s. f.). Stack Overflow. https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript. <br>[3] JSLint: The JavaScript Code Quality and Coverage Tool. (s. f.). JSLint: The JavaScript Code Quality and Coverage Tool. https://www.jslint.com/ <br>[4] W3Schools Free Online Web Tutorials. (s. f.). W3Schools Online Web Tutorials. https://www.w3schools.com/ <br>[5] Uniwebsidad : 7.2.Utilidades básicas para formularios. https://uniwebsidad.com/libros/javascript/capitulo-7/utilidades-basicas-para-formularios <br> [6] Parzibyte : JavaScript obtener día de la semana según fecha. https://parzibyte.me/blog/2020/03/09/javascript-dia-semana-segun-fecha/ </td></tr>
  </tbody>
 </table>
